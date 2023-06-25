@@ -27,6 +27,8 @@ The application is very simple to use. To run the application, you will need to 
 The application will start listening on port 5000. You can then access the endpoints by visiting the following URLs in your browser:
 <br>
 localhost:5000/users
+<br></br>
+localhost:5000/id
 <br>
 
 
